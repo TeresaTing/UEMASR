@@ -1,2 +1,2 @@
 # UEMASR
-Article information and code for UEMASR
+The code is in the process of being organised and will be uploaded when it's finished.
